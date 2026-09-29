@@ -1,0 +1,20 @@
+The easiest way is to use GitHub's built-in license option:
+
+Go back to the repository main page.
+Click Add file → Create new file
+Filename: LICENSE
+Click Choose a license template (if available)
+Select Apache License 2.0
+Commit the file.
+
+The license must contain these sections/topics:
+
+Definitions
+Grant of Copyright License
+Grant of Patent License
+Redistribution
+Submission of Contributions
+Trademarks
+Disclaimer of Warranty
+Limitation of Liability
+Accepting Warranty or Additional Liability
